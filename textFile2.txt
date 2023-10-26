@@ -1,3 +1,20 @@
+asdfasdf
+
 func abcde2(val: int) {
-	return val*val
+	return val * val + "asdfasdfasdf"
 }
+
+asdfasdf
+asdfasdf
+asdfasdf
+adsfasdf
+
+func fdasd(date: string) {
+	return `Your birthday date is : ${date} and you are too young to enter this site!`
+}
+
+asdfasdf
+asdfasdf
+asdfasdf
+asdfasdf
+asdfasdf
