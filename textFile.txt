@@ -1,4 +1,19 @@
-function abcd(name: string) {
-	return `Hello, ${name}!`
+asdfasdf
+asdfasdf
+asdfasdf
+
+function thisIsAnConflictingFunction(val:int) {
+	return val + "asdfasdf"
 }
+
+function abcd(name: string) {
+	return `Hello, ${name}! I'm glad you'r here!`
+}
+
+asdf
+asdf
+asdf
+asdf
+asdf
+asdf
 
