@@ -1,3 +1,7 @@
 func abcde2(val: int) {
 	return val*val
 }
+
+func fdasd(date: string) {
+	return `Your birthday date is : ${date}`
+}
