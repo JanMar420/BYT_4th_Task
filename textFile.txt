@@ -1,0 +1,4 @@
+function abcd(name: string) {
+	return `Hello, ${name}!`
+}
+
